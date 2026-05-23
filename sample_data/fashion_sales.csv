@@ -1,0 +1,105 @@
+Date,Product,Quantity,Revenue,Cost,Category,Payment Method
+2026-01-05,Ankara Top,3,15000,9000,Tops,Cash
+2026-01-05,Jean Trouser,2,18000,12000,Bottoms,POS
+2026-01-05,Ankara Dress,1,25000,15000,Dresses,Transfer
+2026-01-05,Leather Bag,1,12000,7200,Accessories,Cash
+2026-01-06,Blouse,4,16000,9600,Tops,Cash
+2026-01-06,Skirt,3,12000,7200,Bottoms,POS
+2026-01-06,Kaftan,1,30000,18000,Dresses,Cash
+2026-01-06,Ankara Fabric,2,20000,12000,Fabric,Transfer
+2026-01-07,T-Shirt,5,10000,6000,Tops,Cash
+2026-01-07,Jean Trouser,2,18000,12000,Bottoms,POS
+2026-01-07,Jumpsuit,1,28000,16800,Dresses,Cash
+2026-01-07,Shoe,2,16000,9600,Accessories,Cash
+2026-01-08,Ankara Top,3,15000,9000,Tops,Transfer
+2026-01-08,Palazzo,2,14000,8400,Bottoms,Cash
+2026-01-08,Ankara Dress,2,50000,30000,Dresses,POS
+2026-01-08,Belt,3,6000,3600,Accessories,Cash
+2026-01-09,Polo Shirt,4,12000,7200,Tops,Cash
+2026-01-09,Skirt,2,8000,4800,Bottoms,Cash
+2026-01-09,Gown,1,35000,21000,Dresses,Transfer
+2026-01-09,Lace Fabric,1,25000,15000,Fabric,Cash
+2026-01-10,Blouse,3,12000,7200,Tops,POS
+2026-01-10,Jean Trouser,3,27000,18000,Bottoms,Cash
+2026-01-10,Kaftan,1,30000,18000,Dresses,Cash
+2026-01-10,Scarf,4,8000,4800,Accessories,Transfer
+2026-01-11,Ankara Top,4,20000,12000,Tops,Cash
+2026-01-11,Shorts,3,9000,5400,Bottoms,POS
+2026-01-11,Ankara Dress,1,25000,15000,Dresses,Cash
+2026-01-11,Leather Bag,1,12000,7200,Accessories,Cash
+2026-01-12,T-Shirt,6,12000,7200,Tops,Transfer
+2026-01-12,Skirt,3,12000,7200,Bottoms,Cash
+2026-01-12,Jumpsuit,1,28000,16800,Dresses,POS
+2026-01-12,Ankara Fabric,2,20000,12000,Fabric,Cash
+2026-01-13,Blouse,4,16000,9600,Tops,Cash
+2026-01-13,Jean Trouser,2,18000,12000,Bottoms,Cash
+2026-01-13,Gown,1,35000,21000,Dresses,Transfer
+2026-01-13,Shoe,2,16000,9600,Accessories,Cash
+2026-01-14,Ankara Top,3,15000,9000,Tops,POS
+2026-01-14,Palazzo,2,14000,8400,Bottoms,Cash
+2026-01-14,Kaftan,1,30000,18000,Dresses,Cash
+2026-01-14,Belt,3,6000,3600,Accessories,Cash
+2026-01-15,Polo Shirt,5,15000,9000,Tops,Transfer
+2026-01-15,Skirt,4,16000,9600,Bottoms,Cash
+2026-01-15,Ankara Dress,2,50000,30000,Dresses,POS
+2026-01-15,Lace Fabric,1,25000,15000,Fabric,Cash
+2026-01-16,Blouse,3,12000,7200,Tops,Cash
+2026-01-16,Jean Trouser,3,27000,18000,Bottoms,Cash
+2026-01-16,Jumpsuit,1,28000,16800,Dresses,Transfer
+2026-01-16,Scarf,4,8000,4800,Accessories,Cash
+2026-01-17,T-Shirt,5,10000,6000,Tops,POS
+2026-01-17,Shorts,3,9000,5400,Bottoms,Cash
+2026-01-17,Gown,1,35000,21000,Dresses,Cash
+2026-01-17,Leather Bag,1,12000,7200,Accessories,Transfer
+2026-01-18,Ankara Top,4,20000,12000,Tops,Cash
+2026-01-18,Skirt,3,12000,7200,Bottoms,POS
+2026-01-18,Kaftan,1,30000,18000,Dresses,Cash
+2026-01-18,Ankara Fabric,2,20000,12000,Fabric,Cash
+2026-01-19,Blouse,4,16000,9600,Tops,Transfer
+2026-01-19,Jean Trouser,2,18000,12000,Bottoms,Cash
+2026-01-19,Ankara Dress,1,25000,15000,Dresses,POS
+2026-01-19,Shoe,2,16000,9600,Accessories,Cash
+2026-01-20,Polo Shirt,4,12000,7200,Tops,Cash
+2026-01-20,Palazzo,2,14000,8400,Bottoms,Cash
+2026-01-20,Jumpsuit,1,28000,16800,Dresses,Transfer
+2026-01-20,Belt,3,6000,3600,Accessories,Cash
+2026-01-21,Ankara Top,3,15000,9000,Tops,POS
+2026-01-21,Skirt,4,16000,9600,Bottoms,Cash
+2026-01-21,Gown,1,35000,21000,Dresses,Cash
+2026-01-21,Lace Fabric,1,25000,15000,Fabric,Transfer
+2026-01-22,T-Shirt,6,12000,7200,Tops,Cash
+2026-01-22,Jean Trouser,3,27000,18000,Bottoms,POS
+2026-01-22,Kaftan,1,30000,18000,Dresses,Cash
+2026-01-22,Scarf,4,8000,4800,Accessories,Cash
+2026-01-23,Blouse,3,12000,7200,Tops,Transfer
+2026-01-23,Shorts,3,9000,5400,Bottoms,Cash
+2026-01-23,Ankara Dress,2,50000,30000,Dresses,POS
+2026-01-23,Leather Bag,1,12000,7200,Accessories,Cash
+2026-01-24,Ankara Top,4,20000,12000,Tops,Cash
+2026-01-24,Skirt,3,12000,7200,Bottoms,Cash
+2026-01-24,Jumpsuit,1,28000,16800,Dresses,Transfer
+2026-01-24,Ankara Fabric,2,20000,12000,Fabric,Cash
+2026-01-25,Polo Shirt,5,15000,9000,Tops,POS
+2026-01-25,Jean Trouser,2,18000,12000,Bottoms,Cash
+2026-01-25,Gown,1,35000,21000,Dresses,Cash
+2026-01-25,Shoe,2,16000,9600,Accessories,Transfer
+2026-02-01,Blouse,4,16000,9600,Tops,Cash
+2026-02-01,Palazzo,2,14000,8400,Bottoms,POS
+2026-02-01,Kaftan,1,30000,18000,Dresses,Cash
+2026-02-01,Belt,3,6000,3600,Accessories,Cash
+2026-02-02,Ankara Top,3,15000,9000,Tops,Transfer
+2026-02-02,Skirt,4,16000,9600,Bottoms,Cash
+2026-02-02,Ankara Dress,1,25000,15000,Dresses,POS
+2026-02-02,Lace Fabric,1,25000,15000,Fabric,Cash
+2026-02-03,T-Shirt,5,10000,6000,Tops,Cash
+2026-02-03,Jean Trouser,3,27000,18000,Bottoms,Cash
+2026-02-03,Jumpsuit,1,28000,16800,Dresses,Transfer
+2026-02-03,Scarf,4,8000,4800,Accessories,Cash
+2026-02-04,Blouse,3,12000,7200,Tops,POS
+2026-02-04,Shorts,3,9000,5400,Bottoms,Cash
+2026-02-04,Gown,1,35000,21000,Dresses,Cash
+2026-02-04,Leather Bag,1,12000,7200,Accessories,Transfer
+2026-02-05,Ankara Top,4,20000,12000,Tops,Cash
+2026-02-05,Skirt,3,12000,7200,Bottoms,POS
+2026-02-05,Kaftan,1,30000,18000,Dresses,Cash
+2026-02-05,Ankara Fabric,2,20000,12000,Fabric,Cash

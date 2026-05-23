@@ -1,0 +1,99 @@
+Date,Transaction Type,Transaction Amount,Float Balance,Payment Method
+2026-01-05,Cash Withdrawal,5000,450000,Cash
+2026-01-05,Airtime,1000,450000,Cash
+2026-01-05,Cash Withdrawal,10000,440000,Cash
+2026-01-05,Transfer,15000,440000,Transfer
+2026-01-05,Bill Payment,5000,440000,Cash
+2026-01-06,Cash Withdrawal,8000,432000,Cash
+2026-01-06,Airtime,500,432000,Cash
+2026-01-06,Cash Withdrawal,12000,420000,Cash
+2026-01-06,Data,2000,420000,Cash
+2026-01-07,Cash Withdrawal,7000,413000,Cash
+2026-01-07,Transfer,20000,413000,Transfer
+2026-01-07,Airtime,1500,413000,Cash
+2026-01-08,Cash Withdrawal,15000,398000,Cash
+2026-01-08,Bill Payment,8000,398000,Cash
+2026-01-08,Cash Withdrawal,10000,388000,Cash
+2026-01-09,Airtime,1000,388000,Cash
+2026-01-09,Cash Withdrawal,6000,382000,Cash
+2026-01-09,Transfer,12000,382000,Transfer
+2026-01-10,Cash Withdrawal,9000,373000,Cash
+2026-01-10,Data,3000,373000,Cash
+2026-01-10,Cash Withdrawal,11000,362000,Cash
+2026-01-11,Airtime,2000,362000,Cash
+2026-01-11,Cash Withdrawal,8000,354000,Cash
+2026-01-11,Bill Payment,6000,354000,Cash
+2026-01-12,Cash Withdrawal,13000,341000,Cash
+2026-01-12,Transfer,18000,341000,Transfer
+2026-01-12,Airtime,1500,341000,Cash
+2026-01-13,Cash Withdrawal,7000,334000,Cash
+2026-01-13,Data,2500,334000,Cash
+2026-01-13,Cash Withdrawal,10000,324000,Cash
+2026-01-14,Airtime,1000,324000,Cash
+2026-01-14,Cash Withdrawal,9000,315000,Cash
+2026-01-14,Bill Payment,7000,315000,Cash
+2026-01-15,Cash Withdrawal,12000,303000,Cash
+2026-01-15,Transfer,15000,303000,Transfer
+2026-01-15,Airtime,2000,303000,Cash
+2026-01-16,Cash Withdrawal,8000,295000,Cash
+2026-01-16,Data,3000,295000,Cash
+2026-01-16,Cash Withdrawal,11000,284000,Cash
+2026-01-17,Airtime,1500,284000,Cash
+2026-01-17,Cash Withdrawal,10000,274000,Cash
+2026-01-17,Bill Payment,5000,274000,Cash
+2026-01-18,Cash Withdrawal,14000,260000,Cash
+2026-01-18,Transfer,20000,260000,Transfer
+2026-01-18,Airtime,1000,260000,Cash
+2026-01-19,Cash Withdrawal,7000,253000,Cash
+2026-01-19,Data,2000,253000,Cash
+2026-01-19,Cash Withdrawal,9000,244000,Cash
+2026-01-20,Airtime,2000,244000,Cash
+2026-01-20,Cash Withdrawal,11000,233000,Cash
+2026-01-20,Bill Payment,8000,233000,Cash
+2026-01-21,Cash Withdrawal,13000,220000,Cash
+2026-01-21,Transfer,16000,220000,Transfer
+2026-01-21,Airtime,1500,220000,Cash
+2026-01-22,Cash Withdrawal,8000,212000,Cash
+2026-01-22,Data,3000,212000,Cash
+2026-01-22,Cash Withdrawal,10000,202000,Cash
+2026-01-23,Airtime,1000,202000,Cash
+2026-01-23,Cash Withdrawal,12000,190000,Cash
+2026-01-23,Bill Payment,6000,190000,Cash
+2026-01-24,Cash Withdrawal,15000,175000,Cash
+2026-01-24,Transfer,18000,175000,Transfer
+2026-01-24,Airtime,2000,175000,Cash
+2026-01-25,Cash Withdrawal,9000,166000,Cash
+2026-01-25,Data,2500,166000,Cash
+2026-01-25,Cash Withdrawal,11000,155000,Cash
+2026-01-26,Airtime,1500,155000,Cash
+2026-01-26,Cash Withdrawal,8000,147000,Cash
+2026-01-26,Bill Payment,7000,147000,Cash
+2026-01-27,Cash Withdrawal,14000,133000,Cash
+2026-01-27,Transfer,20000,133000,Transfer
+2026-01-27,Airtime,1000,133000,Cash
+2026-02-01,Cash Withdrawal,10000,123000,Cash
+2026-02-01,Data,3000,123000,Cash
+2026-02-01,Cash Withdrawal,12000,111000,Cash
+2026-02-02,Airtime,2000,111000,Cash
+2026-02-02,Cash Withdrawal,8000,103000,Cash
+2026-02-02,Bill Payment,5000,103000,Cash
+2026-02-03,Cash Withdrawal,13000,90000,Cash
+2026-02-03,Transfer,15000,90000,Transfer
+2026-02-03,Airtime,1500,90000,Cash
+2026-02-04,Cash Withdrawal,7000,83000,Cash
+2026-02-04,Data,2000,83000,Cash
+2026-02-04,Cash Withdrawal,9000,74000,Cash
+2026-02-05,Airtime,1000,74000,Cash
+2026-02-05,Cash Withdrawal,11000,63000,Cash
+2026-02-05,Bill Payment,8000,63000,Cash
+2026-02-06,Cash Withdrawal,14000,49000,Cash
+2026-02-06,Transfer,18000,49000,Transfer
+2026-02-06,Airtime,2000,49000,Cash
+2026-02-07,Cash Withdrawal,8000,41000,Cash
+2026-02-07,Data,3000,41000,Cash
+2026-02-07,Cash Withdrawal,10000,31000,Cash
+2026-02-08,Airtime,1500,31000,Cash
+2026-02-08,Cash Withdrawal,12000,19000,Cash
+2026-02-08,Bill Payment,6000,19000,Cash
+2026-02-09,Cash Withdrawal,15000,4000,Cash
+2026-02-09,Transfer,20000,4000,Transfer
